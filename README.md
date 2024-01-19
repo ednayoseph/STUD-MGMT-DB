@@ -7,5 +7,5 @@
 :inbox_tray: Database: Sqlite
 :1234: Language: Python
 
-
+## General ERD
 ![image](https://github.com/ednayoseph/STUD-MGMT-DB/assets/157109581/53d04e4d-39d1-4dc0-9c38-3957fd3a4bf8)
